@@ -29,9 +29,9 @@ export default function DutiesOfKhalsa() {
         <div className="container mx-auto px-4">
           <div className="max-w-4xl mx-auto">
             <div className="bg-blue-50 border border-blue-200 rounded-lg p-8 mb-12">
-              <h2 className="text-2xl font-bold text-blue-900 mb-4">Guru Gobind Singh's Definition of Khalsa</h2>
+              <h2 className="text-2xl font-bold text-blue-900 mb-4">Guru Gobind Singh&apos;s Definition of Khalsa</h2>
               <div className="text-gray-700 italic leading-relaxed space-y-4">
-                <p>"He who repeats night and day the name of Him,</p>
+                <p>&quot;He who repeats night and day the name of Him,</p>
                 <p>Who has full love and confidence in God,</p>
                 <p>Who bestows not a thought on any but one God,</p>
                 <p>Whose enduring light is inextinguishable,</p>
@@ -39,7 +39,7 @@ export default function DutiesOfKhalsa() {
                 <p>Who only recognises the one God and makes no fetish,</p>
                 <p>Of pilgrimages, alms, charities and austerities:</p>
                 <p>He is recognised as a true member of the Khalsa,</p>
-                <p>In whose heart the light of the Perfect One shines."</p>
+                <p>In whose heart the light of the Perfect One shines.&quot;</p>
               </div>
             </div>
           </div>
@@ -73,9 +73,9 @@ export default function DutiesOfKhalsa() {
                     II
                   </div>
                   <div>
-                    <h3 className="text-lg font-semibold text-gray-900 mb-2">Symbols and Guru's Teaching</h3>
+                    <h3 className="text-lg font-semibold text-gray-900 mb-2">Symbols and Guru&apos;s Teaching</h3>
                     <p className="text-gray-600">
-                      He is to keep the symbols (Panj Kakar) and to lead his life according to the Guru's teaching. 
+                      He is to keep the symbols (Panj Kakar) and to lead his life according to the Guru&apos;s teaching. 
                       Gurmantra is Waheguru and the Basic creed is Mool-mantra.
                     </p>
                   </div>
@@ -252,20 +252,20 @@ export default function DutiesOfKhalsa() {
         <div className="container mx-auto px-4">
           <div className="max-w-4xl mx-auto">
             <div className="bg-white rounded-lg shadow-md p-8">
-              <h2 className="text-2xl font-bold text-blue-900 mb-6">Guru Gobind Singh's Words</h2>
+              <h2 className="text-2xl font-bold text-blue-900 mb-6">Guru Gobind Singh&apos;s Words</h2>
               <div className="space-y-6">
                 <blockquote className="text-gray-700 italic leading-relaxed border-l-4 border-blue-200 pl-6">
-                  <p>"To serve them pleases me the most; no other service is so dear to my soul."</p>
+                  <p>&quot;To serve them pleases me the most; no other service is so dear to my soul.&quot;</p>
                 </blockquote>
                 
                 <blockquote className="text-gray-700 italic leading-relaxed border-l-4 border-blue-200 pl-6">
-                  <p>"The Khalsa is my special form; I live in the embodiment of the Khalsa. 
-                  The Khalsa is a part and parcel of my body; the Khalsa is my very soul."</p>
+                  <p>&quot;The Khalsa is my special form; I live in the embodiment of the Khalsa. 
+                  The Khalsa is a part and parcel of my body; the Khalsa is my very soul.&quot;</p>
                 </blockquote>
 
                 <blockquote className="text-gray-700 italic leading-relaxed border-l-4 border-blue-200 pl-6">
-                  <p>"It is through them that I have gained experience; with their help I have subdued my enemies. 
-                  Through their favour, I am exalted, otherwise there are millions of ordinary humble men like me."</p>
+                  <p>&quot;It is through them that I have gained experience; with their help I have subdued my enemies. 
+                  Through their favour, I am exalted, otherwise there are millions of ordinary humble men like me.&quot;</p>
                 </blockquote>
               </div>
             </div>
