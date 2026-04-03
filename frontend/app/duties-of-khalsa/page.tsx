@@ -55,7 +55,7 @@ export default function DutiesOfKhalsa() {
             <div className="space-y-8">
               <div className="bg-white p-6 rounded-lg shadow-md border-l-4 border-blue-900">
                 <div className="flex items-start space-x-4">
-                  <div className="flex-shrink-0 w-8 h-8 bg-blue-900 text-white rounded-full flex items-center justify-center font-bold">
+                  <div className="shrink-0 w-8 h-8 bg-blue-900 text-white rounded-full flex items-center justify-center font-bold">
                     I
                   </div>
                   <div>
@@ -69,7 +69,7 @@ export default function DutiesOfKhalsa() {
 
               <div className="bg-white p-6 rounded-lg shadow-md border-l-4 border-blue-900">
                 <div className="flex items-start space-x-4">
-                  <div className="flex-shrink-0 w-8 h-8 bg-blue-900 text-white rounded-full flex items-center justify-center font-bold">
+                  <div className="shrink-0 w-8 h-8 bg-blue-900 text-white rounded-full flex items-center justify-center font-bold">
                     II
                   </div>
                   <div>
@@ -84,7 +84,7 @@ export default function DutiesOfKhalsa() {
 
               <div className="bg-white p-6 rounded-lg shadow-md border-l-4 border-blue-900">
                 <div className="flex items-start space-x-4">
-                  <div className="flex-shrink-0 w-8 h-8 bg-blue-900 text-white rounded-full flex items-center justify-center font-bold">
+                  <div className="shrink-0 w-8 h-8 bg-blue-900 text-white rounded-full flex items-center justify-center font-bold">
                     III
                   </div>
                   <div>
@@ -99,7 +99,7 @@ export default function DutiesOfKhalsa() {
 
               <div className="bg-white p-6 rounded-lg shadow-md border-l-4 border-blue-900">
                 <div className="flex items-start space-x-4">
-                  <div className="flex-shrink-0 w-8 h-8 bg-blue-900 text-white rounded-full flex items-center justify-center font-bold">
+                  <div className="shrink-0 w-8 h-8 bg-blue-900 text-white rounded-full flex items-center justify-center font-bold">
                     IV
                   </div>
                   <div>
@@ -114,7 +114,7 @@ export default function DutiesOfKhalsa() {
 
               <div className="bg-white p-6 rounded-lg shadow-md border-l-4 border-blue-900">
                 <div className="flex items-start space-x-4">
-                  <div className="flex-shrink-0 w-8 h-8 bg-blue-900 text-white rounded-full flex items-center justify-center font-bold">
+                  <div className="shrink-0 w-8 h-8 bg-blue-900 text-white rounded-full flex items-center justify-center font-bold">
                     V
                   </div>
                   <div>
@@ -129,7 +129,7 @@ export default function DutiesOfKhalsa() {
 
               <div className="bg-white p-6 rounded-lg shadow-md border-l-4 border-blue-900">
                 <div className="flex items-start space-x-4">
-                  <div className="flex-shrink-0 w-8 h-8 bg-blue-900 text-white rounded-full flex items-center justify-center font-bold">
+                  <div className="shrink-0 w-8 h-8 bg-blue-900 text-white rounded-full flex items-center justify-center font-bold">
                     VI
                   </div>
                   <div>
@@ -143,7 +143,7 @@ export default function DutiesOfKhalsa() {
 
               <div className="bg-white p-6 rounded-lg shadow-md border-l-4 border-blue-900">
                 <div className="flex items-start space-x-4">
-                  <div className="flex-shrink-0 w-8 h-8 bg-blue-900 text-white rounded-full flex items-center justify-center font-bold">
+                  <div className="shrink-0 w-8 h-8 bg-blue-900 text-white rounded-full flex items-center justify-center font-bold">
                     VII
                   </div>
                   <div>
@@ -157,7 +157,7 @@ export default function DutiesOfKhalsa() {
 
               <div className="bg-white p-6 rounded-lg shadow-md border-l-4 border-blue-900">
                 <div className="flex items-start space-x-4">
-                  <div className="flex-shrink-0 w-8 h-8 bg-blue-900 text-white rounded-full flex items-center justify-center font-bold">
+                  <div className="shrink-0 w-8 h-8 bg-blue-900 text-white rounded-full flex items-center justify-center font-bold">
                     VIII
                   </div>
                   <div>
