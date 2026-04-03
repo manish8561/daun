@@ -15,16 +15,34 @@ export default function Header() {
             <Link href="/" className="hover:text-blue-200 transition-colors">
               Home
             </Link>
-            <Link href="/#history" className="hover:text-blue-200 transition-colors">
+            <Link
+              href="/#history"
+              className="hover:text-blue-200 transition-colors"
+            >
               History
             </Link>
-            <Link href="/#daily-routine" className="hover:text-blue-200 transition-colors">
+            <Link
+              href="/#daily-routine"
+              className="hover:text-blue-200 transition-colors"
+            >
               Daily Routine
             </Link>
-            <Link href="/donations" className="hover:text-blue-200 transition-colors">
+            <Link
+              href="/duties-of-khalsa"
+              className="hover:text-blue-200 transition-colors"
+            >
+              Duties of Khalsa
+            </Link>
+            <Link
+              href="/donations"
+              className="hover:text-blue-200 transition-colors"
+            >
               Donations
             </Link>
-            <Link href="/#contact" className="hover:text-blue-200 transition-colors">
+            <Link
+              href="/#contact"
+              className="hover:text-blue-200 transition-colors"
+            >
               Contact
             </Link>
           </nav>
